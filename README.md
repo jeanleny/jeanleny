@@ -1,5 +1,7 @@
 # Welcome !
 ## Leny Peris DevOps 42 Student
+### Looking for Internship RNCP 7 (Bac + 5) | Network Information Systems Architecture
+Actually studying development at 42 Angoulême, i'm getting specialized in DevOps engineering.
 
 ### Contact
 
@@ -14,8 +16,7 @@
 [![Chainguard Images](https://img.shields.io/badge/Chainguard%20Images-452C63?style=for-the-badge)](https://images.chainguard.dev/)
 [![Docker](https://gitlegacy.co/api/badge/shield?name=Docker&color=2496ED&style=for-the-badge&logo=docker&logoColor=white)](https://gitlegacy.co/tools/github-badges)
 [![Nginx](https://gitlegacy.co/api/badge/shield?name=Nginx&color=009639&style=for-the-badge&logo=nginx&logoColor=white)](https://gitlegacy.co/tools/github-badges)
-
-
+[![PostgreSQL](https://gitlegacy.co/api/badge/shield?name=PostgreSQL&color=4169E1&style=for-the-badge&logo=postgresql&logoColor=white)](https://gitlegacy.co/tools/github-badges)
 
 ## Dev Stack
 [![Godot Engine](https://gitlegacy.co/api/badge/shield?name=Godot%20Engine&color=478CBF&style=for-the-badge&logo=godotengine&logoColor=white)](https://gitlegacy.co/tools/github-badges)
