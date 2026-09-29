@@ -20,7 +20,7 @@
 ## Dev Stack
 [![Godot Engine](https://gitlegacy.co/api/badge/shield?name=Godot%20Engine&color=478CBF&style=for-the-badge&logo=godotengine&logoColor=white)](https://gitlegacy.co/tools/github-badges)
 [![C++](https://gitlegacy.co/api/badge/shield?name=C%2B%2B&color=00599C&style=for-the-badge&logo=cplusplus&logoColor=white)](https://gitlegacy.co/tools/github-badges)
-[![C](https://gitlegacy.co/api/badge/shield?label=C&message=&color=10b981&style=for-the-badge)](https://gitlegacy.co/tools/github-badges)
+[![C](https://gitlegacy.co/api/badge/shield?label=C&message=&color=10b981&style=for-the-badge)](c.svg)
 [![Go](https://gitlegacy.co/api/badge/shield?name=Go&color=00ADD8&style=for-the-badge&logo=go&logoColor=white)](https://gitlegacy.co/tools/github-badges)
 [![Python](https://gitlegacy.co/api/badge/shield?name=Python&color=3776AB&style=for-the-badge&logo=python&logoColor=white)](https://gitlegacy.co/tools/github-badges)
 [![TypeScript](https://gitlegacy.co/api/badge/shield?name=TypeScript&color=3178C6&style=for-the-badge&logo=typescript&logoColor=white)](https://gitlegacy.co/tools/github-badges)
