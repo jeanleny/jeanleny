@@ -12,7 +12,8 @@
 [![GitHub Actions](https://gitlegacy.co/api/badge/shield?name=GitHub%20Actions&color=2088FF&style=for-the-badge&logo=githubactions&logoColor=white)](https://gitlegacy.co/tools/github-badges)
 [![Google Cloud](https://gitlegacy.co/api/badge/shield?name=Google%20Cloud&color=4285F4&style=for-the-badge&logo=googlecloud&logoColor=white)](https://gitlegacy.co/tools/github-badges)
 ![Chainguard](https://img.shields.io/badge/Chainguard-00A3A3?style=for-the-badge)
-[![Chainguard](https://img.shields.io/badge/Chainguard-00A3A3?style=flat-square)](https://www.chainguard.dev/)
+[![Chainguard Images](https://img.shields.io/badge/Chainguard%20Images-452C63?style=for-the-badge)](https://images.chainguard.dev/)
+
 
 
 ## Dev Stack
