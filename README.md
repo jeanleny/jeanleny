@@ -2,6 +2,13 @@
 ## Leny Peris DevOps 42 Student
 ### Looking for Internship RNCP 7 (Bac + 5) | Network Information Systems Architecture
 Actually studying development at 42 Angoulême, i'm getting specialized in DevOps engineering.
+#### Containerization Orchestration CI-CD
+- Docker and déployment with **Docker Compose**
+- Kubernetes Orchestration with **k3s**
+- Testing environment with **Actions**
+- Project hosting on **GCP**
+- Securized Images with **ChainGuard Images**
+
 
 ### Contact
 
